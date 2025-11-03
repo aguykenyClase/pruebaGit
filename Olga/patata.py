@@ -1,1 +1,2 @@
 print("¡PATATA!")
+print("FRITA!")
